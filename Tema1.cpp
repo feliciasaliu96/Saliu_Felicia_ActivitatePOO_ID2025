@@ -1,4 +1,4 @@
-/*#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS
 #include<iostream>
 #include<cstring>
 
@@ -173,4 +173,4 @@ int main()
 	cout << "Numar autobuze dupa creare: " << Autobuz::getNrAutobuze() << endl;
 
 	return 0;
-	*/
+}
