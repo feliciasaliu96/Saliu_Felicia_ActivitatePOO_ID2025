@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Florarie.cpp" />
     <ClCompile Include="Tema1.cpp" />
+    <ClCompile Include="Teren.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
