@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Autobuz.cpp" />
     <ClCompile Include="Florarie.cpp" />
-    <ClCompile Include="Tema1.cpp" />
     <ClCompile Include="Teren.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
